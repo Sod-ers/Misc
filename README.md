@@ -4,6 +4,7 @@
 - Disable show desktop shortcut in window manager/dconf.
 ### Windows:
 Registry bookmarks:
+
 | Purpose:                         | Path:                                                                                                             |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Run any batch script on startup. | Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor                                                  |

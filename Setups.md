@@ -122,4 +122,3 @@ Brief collection of some software I use often:
 ![](https://github.com/Sod-ers/Misc/blob/main/Screenshots/YTLitePlus-VidHub.webp "YTLitePlus / VidHub")
 ![](https://github.com/Sod-ers/Misc/blob/main/Screenshots/Fintunes-foobar2000.webp "Fintunes & foobar2000")
 ![](https://github.com/Sod-ers/Misc/blob/main/Screenshots/Watch.webp)
-![](https://github.com/Sod-ers/Misc/blob/main/Screenshots/BB-Tracker-1.webp "BB-Tracker")

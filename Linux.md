@@ -1,0 +1,3 @@
+- Play command depends on SoX package.
+- Disable show desktop shortcut in window manager/dconf.
+- sudo apt install gtk-3-examples && gtk3-widget-factory

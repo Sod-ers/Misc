@@ -2,19 +2,19 @@
 ```table-of-contents
 ```
 ### Table of Contents:
-| Chapter:              |
-| --------------------- |
-| Background Noise      |
-| City                  |
-| Commentary & Reaction |
-| Gaming                |
-| IRL                   |
-| Misc                  |
-| Music                 |
-| Nature                |
-| Tech                  |
-| Travel                |
-| TV                    |
+| Chapter:                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------ |
+| [Background Noise](https://github.com/Sod-ers/Misc/blob/main/Twitch%20Channels.md#background-noise)          |
+| [City](https://github.com/Sod-ers/Misc/blob/main/Twitch%20Channels.md#city)                                  |
+| [Commentary & Reaction](https://github.com/Sod-ers/Misc/blob/main/Twitch%20Channels.md#commentary--reaction) |
+| [Gaming](https://github.com/Sod-ers/Misc/blob/main/Twitch%20Channels.md#gaming)                              |
+| [IRL](https://github.com/Sod-ers/Misc/blob/main/Twitch%20Channels.md#irl)                                    |
+| [Misc](https://github.com/Sod-ers/Misc/blob/main/Twitch%20Channels.md#misc)                                  |
+| [Music](https://github.com/Sod-ers/Misc/blob/main/Twitch%20Channels.md#music)                                |
+| [Nature](https://github.com/Sod-ers/Misc/blob/main/Twitch%20Channels.md#nature)                              |
+| [Tech](https://github.com/Sod-ers/Misc/blob/main/Twitch%20Channels.md#tech)                                  |
+| [Travel](https://github.com/Sod-ers/Misc/blob/main/Twitch%20Channels.md#travel)                              |
+| [TV](https://github.com/Sod-ers/Misc/blob/main/Twitch%20Channels.md#tv)                                      |
 ________________________________________________________
 ### Background Noise:
 | Channel:                                         | About:                        |

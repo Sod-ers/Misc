@@ -4,3 +4,5 @@
 - sudo apt install gtk-3-examples && gtk3-widget-factory
 - udev rules may require restart.
 - Put /home/ on separate partition or better yet separate drive.
+- DISPLAY=:0 kino
+- Pulse > Pipewire.

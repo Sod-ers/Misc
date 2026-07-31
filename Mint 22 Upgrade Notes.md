@@ -12,6 +12,10 @@
 - Some packages removed.
 - +2 years to EOL, newer software runs (glibc error resolved), some programs enhanced, latest Kernel compatible.  
 - Came with 6.8.0-106 Kernel.
+- mkchromecast tray fails to connect; terminal still works.
+- PipeWire replaces PulseAudio.
+- PipeWire doesn't support stereo desktop audio.
+- PipeWire randomly gets extremely, unsafely loud.
   
 [How to upgrade to Linux Mint 22](https://linuxmint-user-guide.readthedocs.io/en/latest/upgrade-to-mint-22.html)  
 [New Features in Linux Mint 22 'Wilma' - Linux Mint](https://www.linuxmint.com/rel_wilma_whatsnew.php)  

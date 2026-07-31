@@ -6,3 +6,4 @@
 - Put /home/ on separate partition or better yet separate drive.
 - DISPLAY=:0 kino
 - Pulse > Pipewire.
+- After updating `fwupd` & replacing `/etc/grub.d/35_fwupd`, run Grub Customizer to save script changes.
